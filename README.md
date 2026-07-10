@@ -110,4 +110,4 @@ A repository license should be selected before public release. The MIT License i
 
 ## Authors
 
-Yazeed Yasin Ghadi, Rahma Zayoud, Abdullah J. Alzahrani, Tehseen Mazhar, Sghaier Guizani, and Habib Hamam.
+Habib Hamam.

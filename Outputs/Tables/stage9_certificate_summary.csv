@@ -1,0 +1,6 @@
+certificate,verdict
+1. Reconstructibility,Detects injected leakage (rho=1.0 vs ~0.49)
+2. Reachability audit,EMERGENCY DEAD under constant sigma; LIVE under live sigma
+3. CRC on lattice,Mean risk <= alpha (20 splits); lambda monotone; survives upward overrides
+4. Variational thresholds,Threshold structure; harm-ratio sensitive (fine grid)
+Theorem 2 (KS blindness),p ~ 1.0 across 360 feature-split pairs
